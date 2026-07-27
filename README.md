@@ -1,5 +1,5 @@
 # Filtragem-de-informa-es
-Achei esse código perdido no meus arquivos e resolvi melhorá-lo para ficar. Ele filtra informações de textos com foco na  venda/aluguel de imóveis.
+Achei esse código perdido no meus arquivos e resolvi melhorá-lo para ficar menos amador, eu não me lembro o porquê da existência desse código, provavelmente era para alguma atividade da faculdade. Curti a ideia básica e para me testar resolvi atualizá-lo. O código filtra informações de textos com foco na venda/aluguel de imóveis.
 
 # Como usar
 É muito simples na verdade, o código pegará as informações de textos sobre imóveis, por exemplo, se usarmos:
