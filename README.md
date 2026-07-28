@@ -9,14 +9,14 @@ Achei esse código perdido no meus arquivos e resolvi melhorá-lo para ficar men
 Então o código pegará:
 
 Informações extraídas:
-Modalidade: Venda
-Tipo: Apartamento
-CEP: 12345-678
-Área: 80m²
-Valor: 350.000.
-Telefone: 98765-4321
-Endereço: Rua dos Bobos, 123
-Responsável: Matt Corvo
+- Modalidade: Venda
+- Tipo: Apartamento
+- CEP: 12345-678
+- Área: 80m²
+- Valor: 350.000.
+- Telefone: 98765-4321
+- Endereço: Rua dos Bobos, 123
+- Responsável: Matt Corvo
 
 # O que temos em funcionamento?
 As informações estão sendo colhidas de forma adequada na maioria dos testes feitos, cerca de 20 textos (10 em bom português, 10 com diversos erros e/ou escritos de forma incorreta para testes). 
